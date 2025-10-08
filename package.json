@@ -1,0 +1,36 @@
+{
+  "name": "humanify",
+  "version": "1.0.0",
+  "description": "A Node.js utility package for formatting dates and numbers in human-readable formats",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node --experimental-modules example.js",
+    "start": "node --experimental-modules example.js"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "number",
+    "format",
+    "human-readable",
+    "utility",
+    "esm"
+  ],
+  "author": "Vinay Kumar",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinayuser/humanify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinayuser/humanify/issues"
+  },
+  "homepage": "https://github.com/vinayuser/humanify#readme"
+}
