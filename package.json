@@ -1,5 +1,5 @@
 {
-  "name": "humanify",
+  "name": "humanify-js",
   "version": "1.0.0",
   "description": "A Node.js utility package for formatting dates and numbers in human-readable formats",
   "type": "module",
@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vinayuser/humanify.git"
+    "url": "https://github.com/vinayuser/humanify-js.git"
   },
   "bugs": {
-    "url": "https://github.com/vinayuser/humanify/issues"
+    "url": "https://github.com/vinayuser/humanify-js/issues"
   },
-  "homepage": "https://github.com/vinayuser/humanify#readme"
+  "homepage": "https://github.com/vinayuser/humanify-js#readme"
 }
