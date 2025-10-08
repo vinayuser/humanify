@@ -1,5 +1,5 @@
 /**
- * Example usage of the humanify package
+ * Example usage of the friendlyfy package
  * Run with: npm start or node example.js
  */
 
@@ -33,7 +33,7 @@ import {
   clampNumber
 } from './src/index.js';
 
-console.log('🚀 Humanify Package Examples\n');
+console.log('🚀 friendlyfy Package Examples\n');
 
 // Date Helper Examples
 console.log('📅 Date Helper Examples:');
@@ -153,6 +153,6 @@ console.log('• Number validation and clamping utilities');
 console.log('• Start/end of time periods');
 
 console.log('\nTo use this package in your project:');
-console.log('1. npm install humanify');
-console.log('2. import { timeAgo, shortenNumber, formatFileSize } from "humanify";');
+console.log('1. npm install friendlyfy');
+console.log('2. import { timeAgo, shortenNumber, formatFileSize } from "friendlyfy";');
 console.log('3. Use the functions as shown above!');

@@ -14,7 +14,7 @@ A Node.js v20 ESM-based utility package for formatting dates and numbers in huma
 ## Installation
 
 ```bash
-npm install humanify-js
+npm install friendlyfy-js
 ```
 
 ## Quick Start
@@ -27,7 +27,7 @@ import {
   formatFileSize, 
   formatOrdinal,
   pluralize 
-} from 'humanify-js';
+} from 'friendlyfy-js';
 
 // Date formatting
 console.log(timeAgo('2025-10-08T10:00:00Z')); // "3 hours ago"
@@ -266,7 +266,7 @@ clampNumber(25, 10, 20); // 20
 All functions support locale-specific formatting:
 
 ```javascript
-import { timeAgo, formatWithCommas, formatCurrency } from 'humanify-js';
+import { timeAgo, formatWithCommas, formatCurrency } from 'friendlyfy-js';
 
 // Spanish
 timeAgo(date, 'es-ES'); // "hace 2 horas"
