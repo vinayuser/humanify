@@ -1,4 +1,4 @@
-# Humanify JS
+# friendlyfy JS
 
 A Node.js v20 ESM-based utility package for formatting dates and numbers in human-readable formats, similar to Laravel's Carbon.
 
